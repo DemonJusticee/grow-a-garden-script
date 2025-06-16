@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DemonJusticee/grow-a-garden-script/refs/heads/main/growagarden.lua"))()
